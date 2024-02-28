@@ -1,0 +1,9 @@
+創建env : conda create --name myenv python=3.6
+
+進入env : activate myenv
+
+離開env : deactivate
+
+查看env : conda env list
+
+刪除env : conda env remove --name myenv
